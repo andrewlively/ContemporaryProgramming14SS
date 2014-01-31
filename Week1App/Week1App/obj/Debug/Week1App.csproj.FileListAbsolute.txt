@@ -1,0 +1,12 @@
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\bin\Debug\Week1App.exe.config
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\bin\Debug\Week1App.exe
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\bin\Debug\Week1App.pdb
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\obj\Debug\Week1App.csprojResolveAssemblyReference.cache
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\obj\Debug\Week1App.Form1.resources
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\obj\Debug\Week1App.Properties.Resources.resources
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\obj\Debug\Week1App.csproj.GenerateResource.Cache
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\obj\Debug\Week1App.exe
+c:\users\ghantousk\documents\visual studio 2013\Projects\Week1App\Week1App\obj\Debug\Week1App.pdb
+Z:\VM Shared Folder\Week1App\Week1App\bin\Debug\Week1App.exe.config
+Z:\VM Shared Folder\Week1App\Week1App\obj\Debug\Week1App.exe
+Z:\VM Shared Folder\Week1App\Week1App\obj\Debug\Week1App.pdb
